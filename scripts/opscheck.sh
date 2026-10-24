@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "=== OpsCheck ==="
+"=== OpsCheck — Équipe Infrastructure ==="
 echo "Machine : $(hostname)"
 echo "=== Espace disque ==="
 df -h /
