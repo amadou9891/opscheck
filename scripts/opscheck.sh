@@ -5,3 +5,6 @@
 echo "OpsCheck"
 
 echo "nom de la machine : $(hostname)"
+# Affiche le controle disque
+
+echo "Controle disque : $(df -h)"
